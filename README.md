@@ -1,5 +1,4 @@
 <h1>Oioi, bem-vindo(a) ao meu perfil! :D</h1>
-<h1>Algumas ferramentas que utilizo:</h1>
 <p align="center">
   <a href="https://www.instagram.com/felpzinea/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
