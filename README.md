@@ -5,7 +5,7 @@
   </a>
 </p>
 <p>Sou a Ana Lu, tenho 18 anos e sou Técnica em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI). Sinta-se livre para dar uma olhada nos meus repositórios públicos, todos foram feitos durante o meu curso e me dediquei bastante a eles.</p>
-
+<br>
 <h1>Algumas linguagens que conheço:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
