@@ -1,7 +1,7 @@
 <h1>Oioi, bem-vindo(a) ao meu perfil! :D</h1>
-<hr>
-<br>
-<p></p>
+<!-- <hr> -->
+<!-- <br> -->
+<p>Sou a Ana Lu, tenho 18 anos e sou Técnica em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI). Sinta-se livre para dar uma olhada nos meus repositórios públicos, todos foram feitos durante o meu curso e me dediquei bastante a eles.</p>
 
 
 <!--
