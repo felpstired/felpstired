@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpstired)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1>Oioi, bem-vindo(a) ao meu perfil! :D</h1>
 <p align="center">
   <a href="https://www.instagram.com/felpzinea/">
@@ -22,9 +20,8 @@
   </a>
 </p>
 
-<div style="display: flex;">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)] <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpstired&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
